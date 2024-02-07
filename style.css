@@ -1,0 +1,23 @@
+body {
+    background-color: antiquewhite;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 100px;
+    gap: 20px;
+    width: 400px;
+
+}
+
+div {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+}
+
+.flash {
+    background-color: #000;
+}
